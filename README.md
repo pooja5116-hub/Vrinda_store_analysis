@@ -111,6 +111,8 @@ The project includes a portfolio-ready, single-page interactive dashboard featur
 Designed with a focus on clarity, usability, and real-world decision-making.
 
 ---
+<img width="807" height="663" alt="image" src="https://github.com/user-attachments/assets/3611da99-6639-4145-9a57-4fed7551452f" />
+
 
 ## 🏁 Conclusion
 
